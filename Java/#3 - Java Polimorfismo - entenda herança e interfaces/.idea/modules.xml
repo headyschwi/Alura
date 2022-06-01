@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/#3.iml" filepath="$PROJECT_DIR$/#3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" />
+    </modules>
+  </component>
+</project>

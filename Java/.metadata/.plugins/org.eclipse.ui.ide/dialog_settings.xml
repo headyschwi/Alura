@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Programas\Alura\Java\#7 - Streams, Reader e Writers"/>
+			<item value="E:\Programas\Alura\Java\#6 - java.util Coleções, Wrappers e Lambda\bytebank-herdado-conta"/>
+			<item value="E:\Programas\Alura\Java\#6 - java.util Coleções, Wrappers e Lambda"/>
+			<item value="E:\Programas\Alura\Java\#5 - classe Object e String"/>
+			<item value="E:\Programas\Alura\Java\#4 - Exceções"/>
+			<item value="E:\Programas\Alura\Java\#3"/>
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1646929941993"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
