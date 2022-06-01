@@ -1,0 +1,4 @@
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpstat.us/300
+https://httpstat.us/200
