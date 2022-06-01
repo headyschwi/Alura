@@ -1,0 +1,14 @@
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+E:\Programas\Alura\C#\ASP.NET Core MVC\#1 - Asp.NET Core - Uma webapp usando o padrão MVC\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache

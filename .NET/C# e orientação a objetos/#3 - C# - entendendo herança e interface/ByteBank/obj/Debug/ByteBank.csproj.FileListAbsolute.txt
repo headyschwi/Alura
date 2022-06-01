@@ -1,0 +1,8 @@
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\bin\Debug\ByteBank.exe.config
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\bin\Debug\ByteBank.exe
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\bin\Debug\ByteBank.pdb
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\obj\Debug\ByteBank.exe
+E:\Programas\Alura\C#\C# e orientação a objetos\#3\ByteBank\obj\Debug\ByteBank.pdb
